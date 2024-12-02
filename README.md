@@ -8,19 +8,19 @@ The script is an excellent introduction to Python list manipulation, designed fo
 
 **The list is created in the following steps:**
 
-Creating an empty list: Starts with an empty list.
+**Creating an empty list:** Starts with an empty list.
 
-Appending elements: Adds numbers 10, 20, 30, 40 to the list.
+**Appending elements:** Adds numbers 10, 20, 30, 40 to the list.
 
-Inserting an element: Inserts the value 15 at the second position in the list.
+**Inserting an element:** Inserts the value 15 at the second position in the list.
 
-Extending the list: Adds another list [50, 60, 70] to the original list.
+**Extending the list:** Adds another list [50, 60, 70] to the original list.
 
-Removing the last element: Deletes the last element from the list.
+**Removing the last element:** Deletes the last element from the list.
 
-Sorting the list: Orders the elements in ascending order.
+**Sorting the list:** Orders the elements in ascending order.
 
-Finding the index of a value: Locates the position of 30 in the sorted list.
+**Finding the index of a value:** Locates the position of 30 in the sorted list.
 
 **📂 Project Structure**
 The repository contains the following files:
